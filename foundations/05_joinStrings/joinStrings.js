@@ -9,6 +9,15 @@
 
 // Add your code right below, good luck!
 
+let firstName = "Carlos";
+let lastName = "Stevenson";
+let birthYear = 1947;
+let thisYear = 1965;
+
+let fullName = firstName + " " + lastName;
+let age = thisYear - birthYear;
+
+greeting = "Hello! My name is " + fullName + " and I am " + age + " years old."
 
 
 
