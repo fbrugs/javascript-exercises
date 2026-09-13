@@ -4,7 +4,7 @@ const convertToCelsius = function(fahrenheit) {
   if (celsius % 1 !== 0) {
     return +celsius.toFixed(1);
   } else {
-  return celsius
+    return celsius
   }
 };
 
